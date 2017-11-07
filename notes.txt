@@ -1,0 +1,13 @@
+fetch
+.json()
+.text()
+
+NPM Scripts
+  - replace it with node server.js
+
+Foreman
+  - Procfile
+  - nf start
+  - replace npm start with nf start
+  - Procfile can also contain more scripts
+  - add react-scripts start too (from create-react-app)
